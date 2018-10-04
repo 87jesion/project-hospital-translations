@@ -1,0 +1,160 @@
+<Database>
+    <GameDBStringTable ID="LOC_PL_NAMES">
+        
+        <LanguageCode>pl</LanguageCode>
+        <LanguageNameLocalized>Polish</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Michał Jesionkowski</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_01</LocID>      <Text>Jan</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_02</LocID>      <Text>Paweł</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_03</LocID>      <Text>Franciszek</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_04</LocID>      <Text>Piotr</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_05</LocID>      <Text>David</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_06</LocID>      <Text>Kamil</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_07</LocID>      <Text>Sławomir</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_08</LocID>      <Text>Jędrzej</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_09</LocID>      <Text>Maciej</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_10</LocID>      <Text>Marek</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_11</LocID>      <Text>Jamusz</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_12</LocID>      <Text>Robert</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_13</LocID>      <Text>Michał</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_14</LocID>      <Text>Wiktor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_15</LocID>      <Text>Ryszard</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_16</LocID>      <Text>Józef</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_17</LocID>      <Text>Tomasz</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_18</LocID>      <Text>Karol</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_19</LocID>      <Text>Krzysztof</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_MALE_20</LocID>      <Text>Daniel</Text>  </GameDBLocalizedString>
+
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_01</LocID>    <Text>Maria</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_02</LocID>    <Text>Sara</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_03</LocID>    <Text>Katarzyna</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_04</LocID>    <Text>Janina</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_05</LocID>    <Text>Judyta</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_06</LocID>    <Text>Barbara</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_07</LocID>    <Text>Karolina</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_08</LocID>    <Text>Diana</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_09</LocID>    <Text>Grażyna</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_10</LocID>    <Text>Adrianna</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_11</LocID>    <Text>Patrycja</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_12</LocID>    <Text>Hanna</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_13</LocID>    <Text>Anna</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_14</LocID>    <Text>Elżbieta</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_15</LocID>    <Text>Marta</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_16</LocID>    <Text>Lidia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_17</LocID>    <Text>Małgorzata</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_18</LocID>    <Text>Laura</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_19</LocID>    <Text>Klaudia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_FIRST_FEMALE_20</LocID>    <Text>Teresa</Text>  </GameDBLocalizedString>
+
+
+            <!--https://surnames.behindthename.com/top/lists/united-states/1990-->
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_01</LocID>    <Text>Kowalski</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_02</LocID>    <Text>Graczyk</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_03</LocID>    <Text>Tur</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_04</LocID>    <Text>Gawęda</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_05</LocID>    <Text>Narkowski</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_06</LocID>    <Text>Zięba</Text>     </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_07</LocID>    <Text>Kamiński</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_08</LocID>    <Text>Polowiecki</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_09</LocID>    <Text>Szpak</Text>     </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_10</LocID>    <Text>Malanowski</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_11</LocID>    <Text>Burakowski</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_12</LocID>    <Text>Janczarz</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_13</LocID>    <Text>Szramkowski</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_14</LocID>    <Text>Nowak</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_15</LocID>    <Text>Bigała</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_16</LocID>    <Text>Kaczor</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_17</LocID>    <Text>Mateńka</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_18</LocID>    <Text>Borowiecki</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_19</LocID>    <Text>Zalewski</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_20</LocID>    <Text>Wrzosek</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_21</LocID>    <Text>Jarecki</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_22</LocID>    <Text>Kot</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_23</LocID>    <Text>Dudziński</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_24</LocID>    <Text>Siwa</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_25</LocID>    <Text>Lipiński</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_26</LocID>    <Text>Pokot</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_27</LocID>    <Text>Klonowski</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_28</LocID>    <Text>Halik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_29</LocID>    <Text>Pospieszała</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_30</LocID>    <Text>Kameryński</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_31</LocID>    <Text>Pieszałkowski</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_32</LocID>    <Text>Galita</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_33</LocID>    <Text>Baron</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_34</LocID>    <Text>Kaniecki</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_35</LocID>    <Text>Jędrzejewski</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_36</LocID>    <Text>Zarzyca</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_37</LocID>    <Text>Kluska</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_38</LocID>    <Text>Adamowski</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_39</LocID>    <Text>Bakier</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_MALE_40</LocID>    <Text>Gorczyca</Text>  </GameDBLocalizedString>
+
+            <!-- Similar list as above for most languages, allows correct feminine forms in slavic languages -->
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_01</LocID>  <Text>Kowalska</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_02</LocID>  <Text>Kamińska</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_03</LocID>  <Text>Nowak</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_04</LocID>  <Text>Tur</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_05</LocID>  <Text>Klonowska</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_06</LocID>  <Text>Adamowska</Text>     </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_07</LocID>  <Text>Zalewska</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_08</LocID>  <Text>Lipińska</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_09</LocID>  <Text>Pospieszalska</Text>     </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_10</LocID>  <Text>Baron</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_11</LocID>  <Text>Kaniecka</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_12</LocID>  <Text>Jędrzejewska</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_13</LocID>  <Text>Zarzycka</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_14</LocID>  <Text>Zalewska</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_15</LocID>  <Text>Kaczorowska</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_16</LocID>  <Text>Jarecka</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_17</LocID>  <Text>Malanowska</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_18</LocID>  <Text>Dudzińska</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_19</LocID>  <Text>Kot</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_20</LocID>  <Text>Baron</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_21</LocID>  <Text>Szlachecka</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_22</LocID>  <Text>Mocna</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_23</LocID>  <Text>Konieczna</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_24</LocID>  <Text>Kameryńska</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_25</LocID>  <Text>Zawidzka</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_26</LocID>  <Text>Kluska</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_27</LocID>  <Text>Polot</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_28</LocID>  <Text>Halik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_29</LocID>  <Text>Kamrota</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_30</LocID>  <Text>Palina</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_31</LocID>  <Text>Iksińska</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_32</LocID>  <Text>Borowiecka</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_33</LocID>  <Text>Luska</Text> </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_34</LocID>  <Text>Palita</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_35</LocID>  <Text>Konieczna</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_36</LocID>  <Text>Sarycka</Text>    </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_37</LocID>  <Text>Bąk</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_38</LocID>  <Text>Zając</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_39</LocID>  <Text>Tarczyńska</Text>      </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_40</LocID>  <Text>Szramkowska</Text>  </GameDBLocalizedString>
+            
+            <!-- Insurance companies -->
+            <GameDBLocalizedString>    <LocID>IN_COM_NONE</LocID>             <Text>WILK</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_AAA</LocID>              <Text>GROSS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_BBB</LocID>              <Text>ODRA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_CCC</LocID>              <Text>NoRISK</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_DDD</LocID>              <Text>Life Protect</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_EEE</LocID>              <Text>Finesta</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_FFF</LocID>              <Text>Belladona</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN</LocID>         <Text>ZOK</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_BUILDING</LocID><Text>ZZA</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_MANAGEMENT</LocID><Text>FAP</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_1</LocID><Text>Life Direct</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_2</LocID><Text>Para Safe</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_3</LocID><Text>GLobal Risk</Text>  </GameDBLocalizedString>
+            
+        </LocalizedStrings>
+    </GameDBStringTable>
+
+</Database>
+
+   
