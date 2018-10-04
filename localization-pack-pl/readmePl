@@ -1,0 +1,40 @@
+
+Dlaczego dane wyglądaja właśnie tak? Tabela lokalizacyjna zapisywana jest jako zwykły tekst w rozszrzeniu XML, pogrópowane w różne kategorie np: 
+-Tekst w menu i głownym interfejsie gry
+-Terminy medyczne - diagnozy
+-Tekst do samouczków i kampanii
+-Nazwy i opisy obiektów które może zbudować
+Takie pogrupowanie pozwoli większej ilości ludzi na tłumaczenie jednego języka. Gra czyta bezpośrednio pliki XML, więc możliym jest przetestowanie zmian w tłumacznie bezpośrednio w grze, bez zbędnego wysyłania plików do twórców, a następnie czekanie na nowa wersję. 
+
+Przykład dla tłumaczenia polskiego
+Każdy plik ma unikatowy identyfikator (ID - zmienia język kodu!). Wartości które muszą zostać wprowadzone/zmienione w kązdym pliku są językiem kodu napisanym z małej litery (np en, fr, pt_br, pl etc) oraz nazwą  tekstu do przetłumacznia (czyli to co pojawi się w samej grze).
+Śmiało dodawajcię się do listy osób współpracujących przy projekcie w każdym pliku nad którym będziecie pracować.
+
+!
+
+<Database>
+   
+ <GameDBStringTable ID="LOC_PL_ACHIEVEMENTS">
+        
+        <LanguageCode>pl</LanguageCode>
+        <LanguageNameLocalized>Polski</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Osoba biorąc udział w tłumaczeniu</Name>
+        </Contributors>
+
+
+Tekst przykałdowy
+==========================
+
+    <GameDBLocalizedString>      
+<LocID>CANCEL</LocID>                    <Text>Anuluj</Text>  </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      <LocID>OCCUPATION_DOCTOR</LocID>         <Text>Lekarz</Text>  </GameDBLocalizedString>
+    <GameDBLocalizedString>      <LocID>OCCUPATION_NURSE</LocID>          <Text>Pielęgniarka</Text>  </GameDBLocalizedString>
+
+    <GameDBLocalizedString>      <LocID>DIA_FLU1_DESCRIPTION</LocID>      <Text>Grypa jest powszechną infekcją wywoływaną przez...</Text>  </GameDBLocalizedString>
+
+
+Jest kilka opcji formatowania tekstu: Nowy akapit: \n Pogrubienie/kursywa: <![CDATA[Teraz <b><i>zrób coś</i></b>.\nTen tekst jest w kolejnym akapcie.]]>
+
