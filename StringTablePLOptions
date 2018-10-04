@@ -1,0 +1,28 @@
+<LanguageCode>pl</LanguageCode>
+        <LanguageNameLocalized>Polski</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Michał Jesionkowski</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+            <GameDBLocalizedString>      <LocID>UI_OPTIONS</LocID>                     <Text>OPCJE</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UI_OPTIONS_MESSAGES</LocID>            <Text>OPCJE POWIADOMIEŃ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_BLOOD</LocID>             <Text>Pokazuj krew</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_SCHEDULE</LocID>          <Text>Pokazuj harmonogram dnia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE_AUTO</LocID>          <Text>Automatyczne skalowanie interfejsu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_SCALE</LocID>               <Text>Skala interfejsu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_UI_TOOLTIP_DELAY</LocID>       <Text>Tooltip delay (0 - 1s)</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_SFX</LocID>             <Text>Głośność: Efekty</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_MUSIC</LocID>           <Text>Głośność: Muzyka</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_DIALOGUE</LocID>        <Text>Głośność: Dialogi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_VOLUME_UI</LocID>              <Text>Głośność: UI</Text>  </GameDBLocalizedString>
+            
+            <GameDBLocalizedString>      <LocID>OPTIONS_AUTO_FOUNDATION_WALLS</LocID>  <Text>Automatycznie dodawaj ściany wokół fundamentów</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_PAYMENTS_INGAME</LocID>   <Text>Pokazuj płatności w grze</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_SHOW_XP_INGAME</LocID>         <Text>Pokazuj zdobyte doświadczenie w grze</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OPTIONS_TRANSPARENT_OPEN_DOORS</LocID> <Text>Nie pokazuj otwartych drzwi</Text>  </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
